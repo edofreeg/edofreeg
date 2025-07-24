@@ -20,7 +20,7 @@
 | Nome | Descrizione | Tecnologie |
 |------|-------------|------------|
 | [Recommendation System](https://github.com/edofreeg/recommendation_systems) | Sviluppo di diversi sistemi di raccomandazione di film. | Python, Pandas, PyTorch |
-| [Emotion Recognition](https://github.com/edofreeg/emotoins-recognition) | Algoritmo che riconosce l'emozione espressa da un'immagine del viso. | Keras, Pandas |
+| [Emotion Recognition](https://github.com/edofreeg/emotoins-recognition) | Algoritmo che riconosce l'emozione espressa da un'immagine del viso. | PyTorch, Pandas |
 
 ---
 
